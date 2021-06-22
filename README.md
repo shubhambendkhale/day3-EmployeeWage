@@ -1,1 +1,1 @@
-Welcome to the Employee Wage Computation Master Branch
+1. Check whether the employee is present or not using random.
